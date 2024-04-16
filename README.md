@@ -30,4 +30,4 @@
 ![img_1.png](img_1.png)
 
 ### Contributing
-Contributions to further enhance the game, additions of new applicable features are welcome. Please fork the repository, apply your changes and submit a pull request with a detailed description of your improvements.
+Contributions to further enhance the code, additions of new applicable features are welcome. Please fork the repository, apply your changes and submit a pull request with a detailed description of your improvements.
